@@ -38,7 +38,7 @@ Edit file `config/database.php`:
 private $host = "localhost";
 private $db_name = "db_karyawan";
 private $username = "root";
-private $password = "YOUR_PASSWORD"; // Ganti dengan password MySQL Anda
+private $password = "260503"; 
 ```
 
 ### 4. Jalankan Aplikasi
@@ -60,7 +60,7 @@ karyawan_mvc/
 ![Daftar Karyawan](screenshot.png)
 
 ## Author
-Nama Anda - [GitHub](https://github.com/username)
+Kurniawandwi26 - [GitHub](https://github.com/username)
 
 ## License
 MIT License 

@@ -2,7 +2,7 @@
 
 <div class="content">
     <div class="form-container">
-        <h2>➕ Tambah Data Karyawan Baru</h2>
+        <h2> Tambah Data Karyawan Baru</h2>
         
         <form action="index.php?action=store" method="POST">
             <div class="form-group">
