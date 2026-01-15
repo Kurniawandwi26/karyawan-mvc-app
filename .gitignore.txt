@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore config with password (jika mau private)
+# config/database.php
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+*.log
